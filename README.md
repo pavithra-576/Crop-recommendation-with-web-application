@@ -83,7 +83,6 @@ The pipeline flows from chat input through three watsonx-powered agents and thei
 - **AI Platform**: IBM watsonx.ai
 - **Models**: IBM Granite (Granite-4.0-8B-Instruct)
 - **Retrieval**: RAG pipeline with vector database
-- **Dashboard**: Streamlit / React
 
 ---
 
@@ -98,7 +97,7 @@ The pipeline flows from chat input through three watsonx-powered agents and thei
 ## Setup
 
 1. Clone this repository
-2. Install dependencies (`requirements.txt`)
+2. Install dependencies (`myapp')
 3. Configure environment variables:
    - `WATSONX_APIKEY``
    - `WATSONX_URL`
